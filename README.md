@@ -4,8 +4,6 @@
 
 <h3 align="center">I am a passionate and motivated aspiring Data Analyst.</h3>
 
-
-
 ## 👩‍💻 About Me
 
 - 🔭 Working on **Python & Data Analytics Projects**
@@ -15,8 +13,6 @@
 - 👨‍💻 Explore all my projects: **https://github.com/NikitaAmbre**
 - 📫 Reach me at **nikitaambre57@gmail.com**
 - ⚡ **Fun Fact:** I enjoy transforming challenges into learning opportunities.
-
----
 
 ## 🌐 Connect with Me
 
@@ -32,10 +28,7 @@
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 
-
 </p>
-
----
 
 ## 💻 Languages & Tools
 
@@ -50,10 +43,6 @@
 
 </p>
 
----
-
-
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -62,26 +51,9 @@
 
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaAmbre&theme=tokyo-night"/>
-
-</p>
-
-
-
-
-
-
 ## ✨ Quote
 
 > **"Turning data into insights and ideas into impactful solutions."**
-
----
 
 <p align="center">
 
