@@ -54,14 +54,6 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikitaAmbre&theme=tokyo-night"/>
-
-</p>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/NikitaAmbre/NikitaAmbre/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
