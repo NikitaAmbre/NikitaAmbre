@@ -44,13 +44,9 @@
 </p>
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=NikitaAmbre&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=NikitaAmbre&theme=default&hide_border=true&ring=7C3AED&fire=A855F7&currStreakLabel=6D28D9"/>
 </p>
-
 ## 📈 Contribution Graph
 
 <p align="center">
