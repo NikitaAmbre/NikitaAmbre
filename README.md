@@ -11,7 +11,7 @@
 - 🤝 Looking for help with **Advanced Data Analytics, SQL Best Practices & Dashboard Optimization**
 - 👨‍💻 Explore all my projects: **https://github.com/NikitaAmbre**
 - 📫 Reach me at **nikitaambre57@gmail.com**
-- ⚡ **Fun Fact:** I enjoy transforming challenges into learning opportunities.
+- ⚡ Fun Fact: **I enjoy transforming challenges into learning opportunities.**
 
 ## 🌐 Connect with Me
 
